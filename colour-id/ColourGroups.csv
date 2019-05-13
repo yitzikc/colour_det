@@ -1,0 +1,141 @@
+HTML_name,Hex,RGB,Colour_Group
+Pink,FF C0 CB,255 192 203,Pink
+LightPink,FF B6 C1,255 182 193,Pink
+HotPink,FF 69 B4,255 105 180,Pink
+DeepPink,FF 14 93,255  20 147,Pink
+PaleVioletRed,DB 70 93,219 112 147,Pink
+MediumVioletRed,C7 15 85,199  21 133,Pink
+LightSalmon,FF A0 7A,255 160 122,Red
+Salmon,FA 80 72,250 128 114,Red
+DarkSalmon,E9 96 7A,233 150 122,Red
+LightCoral,F0 80 80,240 128 128,Red
+IndianRed,CD 5C 5C,205  92  92,Red
+Crimson,DC 14 3C,220  20  60,Red
+Firebrick,B2 22 22,178  34  34,Red
+DarkRed,8B 00 00,139   0   0,Red
+Red,FF 00 00,255   0   0,Red
+OrangeRed,FF 45 00,255  69   0,Orange
+Tomato,FF 63 47,255  99  71,Orange
+Coral,FF 7F 50,255 127  80,Orange
+DarkOrange,FF 8C 00,255 140   0,Orange
+Orange,FF A5 00,255 165   0,Orange
+Yellow,FF FF 00,255 255   0,Yellow
+LightYellow,FF FF E0,255 255 224,Yellow
+LemonChiffon,FF FA CD,255 250 205,Yellow
+LightGoldenrodYellow ,FA FA D2,250 250 210,Yellow
+PapayaWhip,FF EF D5,255 239 213,Yellow
+Moccasin,FF E4 B5,255 228 181,Yellow
+PeachPuff,FF DA B9,255 218 185,Yellow
+PaleGoldenrod,EE E8 AA,238 232 170,Yellow
+Khaki,F0 E6 8C,240 230 140,Yellow
+DarkKhaki,BD B7 6B,189 183 107,Yellow
+Gold,FF D7 00,255 215   0,Yellow
+Cornsilk,FF F8 DC,255 248 220,Brown
+BlanchedAlmond,FF EB CD,255 235 205,Brown
+Bisque,FF E4 C4,255 228 196,Brown
+NavajoWhite,FF DE AD,255 222 173,Brown
+Wheat,F5 DE B3,245 222 179,Brown
+Burlywood,DE B8 87,222 184 135,Brown
+Tan,D2 B4 8C,210 180 140,Brown
+RosyBrown,BC 8F 8F,188 143 143,Brown
+SandyBrown,F4 A4 60,244 164  96,Brown
+Goldenrod,DA A5 20,218 165  32,Brown
+DarkGoldenrod,B8 86 0B,184 134  11,Brown
+Peru,CD 85 3F,205 133  63,Brown
+Chocolate,D2 69 1E,210 105  30,Brown
+SaddleBrown,8B 45 13,139  69  19,Brown
+Sienna,A0 52 2D,160  82  45,Brown
+Brown,A5 2A 2A,165  42  42,Brown
+Maroon,80 00 00,128   0   0,Brown
+DarkOliveGreen,55 6B 2F, 85 107  47,Green
+Olive,80 80 00,128 128   0,Green
+OliveDrab,6B 8E 23,107 142  35,Green
+YellowGreen,9A CD 32,154 205  50,Green
+LimeGreen,32 CD 32, 50 205  50,Green
+Lime,00 FF 00,  0 255   0,Green
+LawnGreen,7C FC 00,124 252   0,Green
+Chartreuse,7F FF 00,127 255   0,Green
+GreenYellow,AD FF 2F,173 255  47,Green
+SpringGreen,00 FF 7F,  0 255 127,Green
+MediumSpringGreen ,00 FA 9A,  0 250 154,Green
+LightGreen,90 EE 90,144 238 144,Green
+PaleGreen,98 FB 98,152 251 152,Green
+DarkSeaGreen,8F BC 8F,143 188 143,Green
+MediumAquamarine,66 CD AA,102 205 170,Green
+MediumSeaGreen,3C B3 71, 60 179 113,Green
+SeaGreen,2E 8B 57, 46 139  87,Green
+ForestGreen,22 8B 22, 34 139  34,Green
+Green,00 80 00,  0 128   0,Green
+DarkGreen,00 64 00,  0 100   0,Green
+Aqua,00 FF FF,  0 255 255,Cyan
+Cyan,00 FF FF,  0 255 255,Cyan
+LightCyan,E0 FF FF,224 255 255,Cyan
+PaleTurquoise,AF EE EE,175 238 238,Cyan
+Aquamarine,7F FF D4,127 255 212,Cyan
+Turquoise,40 E0 D0, 64 224 208,Cyan
+MediumTurquoise,48 D1 CC, 72 209 204,Cyan
+DarkTurquoise,00 CE D1,  0 206 209,Cyan
+LightSeaGreen,20 B2 AA, 32 178 170,Cyan
+CadetBlue,5F 9E A0, 95 158 160,Cyan
+DarkCyan,00 8B 8B,  0 139 139,Cyan
+Teal,00 80 80,  0 128 128,Cyan
+LightSteelBlue,B0 C4 DE,176 196 222,Blue
+PowderBlue,B0 E0 E6,176 224 230,Blue
+LightBlue,AD D8 E6,173 216 230,Blue
+SkyBlue,87 CE EB,135 206 235,Blue
+LightSkyBlue,87 CE FA,135 206 250,Blue
+DeepSkyBlue,00 BF FF,  0 191 255,Blue
+DodgerBlue,1E 90 FF, 30 144 255,Blue
+CornflowerBlue,64 95 ED,100 149 237,Blue
+SteelBlue,46 82 B4, 70 130 180,Blue
+RoyalBlue,41 69 E1, 65 105 225,Blue
+Blue,00 00 FF,  0   0 255,Blue
+MediumBlue,00 00 CD,  0   0 205,Blue
+DarkBlue,00 00 8B,  0   0 139,Blue
+Navy,00 00 80,  0   0 128,Blue
+MidnightBlue,19 19 70, 25  25 112,Blue
+Lavender,E6 E6 FA,230 230 250,Purple/Magenta
+Thistle,D8 BF D8,216 191 216,Purple/Magenta
+Plum,DD A0 DD,221 160 221,Purple/Magenta
+Violet,EE 82 EE,238 130 238,Purple/Magenta
+Orchid,DA 70 D6,218 112 214,Purple/Magenta
+Fuchsia,FF 00 FF,255   0 255,Purple/Magenta
+Magenta,FF 00 FF,255   0 255,Purple/Magenta
+MediumOrchid,BA 55 D3,186  85 211,Purple/Magenta
+MediumPurple,93 70 DB,147 112 219,Purple/Magenta
+BlueViolet,8A 2B E2,138  43 226,Purple/Magenta
+DarkViolet,94 00 D3,148   0 211,Purple/Magenta
+DarkOrchid,99 32 CC,153  50 204,Purple/Magenta
+DarkMagenta,8B 00 8B,139   0 139,Purple/Magenta
+Purple,80 00 80,128   0 128,Purple/Magenta
+Indigo,4B 00 82, 75   0 130,Purple/Magenta
+DarkSlateBlue,48 3D 8B, 72  61 139,Purple/Magenta
+SlateBlue,6A 5A CD,106  90 205,Purple/Magenta
+MediumSlateBlue ,7B 68 EE,123 104 238,Purple/Magenta
+White,FF FF FF,255 255 255,White
+Snow,FF FA FA,255 250 250,White
+Honeydew,F0 FF F0,240 255 240,White
+MintCream,F5 FF FA,245 255 250,White
+Azure,F0 FF FF,240 255 255,White
+AliceBlue,F0 F8 FF,240 248 255,White
+GhostWhite,F8 F8 FF,248 248 255,White
+WhiteSmoke,F5 F5 F5,245 245 245,White
+Seashell,FF F5 EE,255 245 238,White
+Beige,F5 F5 DC,245 245 220,White
+OldLace,FD F5 E6,253 245 230,White
+FloralWhite,FF FA F0,255 250 240,White
+Ivory,FF FF F0,255 255 240,White
+AntiqueWhite,FA EB D7,250 235 215,White
+Linen,FA F0 E6,250 240 230,White
+LavenderBlush,FF F0 F5,255 240 245,White
+MistyRose,FF E4 E1,255 228 225,White
+Gainsboro,DC DC DC,220 220 220,Gray/Black
+LightGray,D3 D3 D3,211 211 211,Gray/Black
+Silver,C0 C0 C0,192 192 192,Gray/Black
+DarkGray,A9 A9 A9,169 169 169,Gray/Black
+Gray,80 80 80,128 128 128,Gray/Black
+DimGray,69 69 69,105 105 105,Gray/Black
+LightSlateGray,77 88 99,119 136 153,Gray/Black
+SlateGray,70 80 90,112 128 144,Gray/Black
+DarkSlateGray,2F 4F 4F, 47  79  79,Gray/Black
+Black,00 00 00,  0   0   0,Gray/Black
